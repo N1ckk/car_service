@@ -19,6 +19,9 @@ The project aims to develop a financial monitoring system for a car service. It 
 - View and edit information about car service employees
 - Generate reports on the purchase or sale of auto parts for a certain period
 
-##License
+## Developer
+[N1ckk](https://github.com/N1ckk)
+
+## License
 
 This project is licensed under the MIT License.
