@@ -1,4 +1,6 @@
-# Car Service Financial Monitoring System
+<p align="center" >
+  <img src="https://i.ibb.co/LYGC5qm/rounded-in-photoretrica-2.png" alt="ProjectLogo width="500">
+</p>
 
 ## Description
 
