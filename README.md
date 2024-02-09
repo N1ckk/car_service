@@ -1,8 +1,12 @@
 <p align="center" >
-  <img src="https://i.ibb.co/LYGC5qm/rounded-in-photoretrica-2.png" alt="ProjectLogo width="500">
+  <img src="https://i.ibb.co/LYGC5qm/rounded-in-photoretrica-2.png" alt="ProjectLogo width="400">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-v1.0%20(Alpha)-blueviolet" alt="Project Version">
+  <img src="https://img.shields.io/badge/License-MIT-blue" alt="License">
 </p>
 
-## Description
+## About
 
 The project aims to develop a financial monitoring system for a car service. It is implemented using the C# programming language and MySQL DBMS. The application includes an authorization and authentication system catering to two roles: client and car service administrator.
 
